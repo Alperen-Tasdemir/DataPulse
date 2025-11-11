@@ -4,7 +4,7 @@ Python-Based Modbus TCP Monitoring & Logging Tool with Tkinter GUI
 
 DataPulse is a Python project designed to establish, monitor, and log Modbus TCP communication between a client and server.
 The application provides a user-friendly Tkinter GUI with dual language support (English and Turkish), dark/light mode themes, and database logging with timestamps for reviewing past readings.
-Due to the lack of a real industrial device, the project was thoroughly tested using Modbus simulator tools such as EasyModbus TCP.
+Due to the lack of a real industrial device, the project was thoroughly tested using Modbus simulator tools such as EasyModbus TCP. (https://github.com/rossmann-engineering/EasyModbusTCP.NET)
 
 🔹 Features
 
